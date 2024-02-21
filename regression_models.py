@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 17 18:12:39 2024
+# Kaggle : https://www.kaggle.com/code/umutsefkansak/regression-models
 
-@author: umut
-"""
 #%% Data
 import pandas as pd
 import matplotlib.pyplot as plt
